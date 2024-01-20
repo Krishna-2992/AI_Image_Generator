@@ -1,7 +1,11 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# AI IMAGE GENERATION 
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Used to generate images by giving the prompts to the application. 
+Random prompts can also be used by clicking the surprise me button.
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+modules used: 
+openai: to generate images by providing the prompt
+cloudinary: to save the image to the cloud in order for easy retrieval
+file-saver: to save the images to local system with a single click
+
+
